@@ -33,5 +33,4 @@ class SUBSYSTEMSCPP_API UTestWorldSubsystem : public UWorldSubsystem
 	//Function Update number sent to the Update number widget. 
 	UFUNCTION(BlueprintCallable)
 	int UpdateNumber();
-	
 };
